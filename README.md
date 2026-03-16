@@ -63,3 +63,15 @@ The model successfully identifies fraudulent transactions by analyzing transacti
 - Improve model accuracy with deep learning
 - Integrate with live banking transaction systems
 
+
+
+
+
+Dashboard Overview
+![Dashboard Overview](images/dashboard_overview.png)
+
+Dashboard Fraud Detection
+![Dashboard Fraud Detection](images/dashboard_fraud_detection.png)
+
+Dashboard Prediction
+![Dashboard Prediction](images/dashboard_prediction.png)
